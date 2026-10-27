@@ -104,6 +104,11 @@ buckets and `n` is the number of stored entries.
 -   Understand hashing and collision handling.
 -   Test data structures using normal and invalid input cases.
 -   Compare the time and space complexity of common operations.
+  ## 🚀 Access the Project
+
+**Download the complete project:** [Array-Based Stack and Hash Table](Stack_HashTable_Interactive_Updated.zip)
+
+Download the ZIP file, extract it, and open the project in IntelliJ IDEA to explore and run the Java implementations.
 
 ## Author
 
