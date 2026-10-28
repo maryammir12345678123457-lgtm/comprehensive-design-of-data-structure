@@ -106,7 +106,8 @@ buckets and `n` is the number of stored entries.
 -   Compare the time and space complexity of common operations.
   ## 🚀 Access the Project
 
-**Download the complete project:** [Array-Based Stack and Hash Table](Stack_HashTable_Interactive_Updated.zip)
+**Download the complete project:** [Array-Based Stack and Hash Table]([Stack_HashTable_Assignment_Updated.zip](https://github.com/user-attachments/files/34059450/Stack_HashTable_Assignment_Updated.zip)
+
 
 Download the ZIP file, extract it, and open the project in IntelliJ IDEA to explore and run the Java implementations.
 
